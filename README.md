@@ -1,7 +1,7 @@
 ## This is a python guess game played in which  the computer suggest the random number to match the players number and when such happens it is iterated again
 
 - To get started with this amazing simple to learn python project 
--- `git clone -- `
+-- `git clone https://github.com/Alpheus-godswill1/guessgame-computer-guess-.git `
 
 - Secondly
  -- `import random` - the random function has several sub-methods but the one we are interested in is called `randint()`
